@@ -1,12 +1,10 @@
 ## 👋 Hi, I’m June (she/her)
 
 ### 🌷 About Me:
-<ul>
-  <li>👀 I’m interested in UI/UX design and making pretty websites </li>
-  <li>🌱 I’m currently learning web development and some Swift & SwiftUI</li>
-  <li>💖 I’m not looking to collaborate right now</li>
-  <li>📫 Email me at jrbergeron823@gmail.com</li>
-</ul>
+😊 &nbsp; I’m interested in UI / UX design and making pretty websites<br/>
+🌱 &nbsp; I’m currently learning web development and some Swift & SwiftUI<br/>
+💖 &nbsp; I’m not looking to collaborate right now<br/>
+📫 &nbsp; Email me at jrbergeron823@gmail.com<br/>
 
 ### 👩‍💻 Tech Stack:
 <ul>
