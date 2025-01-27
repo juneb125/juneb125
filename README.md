@@ -4,8 +4,8 @@ My name is June (she/her) and I'm an aspiring front-end developer
 
 ### ✨ About Me
 
-😊 &nbsp; I’m interested in making pretty & accessible apps, CLI's, and TUI's<br/>
-🌱 &nbsp; I'm currently learning Rust & shell scripting<br/>
+😊 &nbsp; I’m interested in systems programming and making pretty & accessible apps, CLI's, and TUI's<br/>
+🌱 &nbsp; I'm currently learning Rust<br/>
 💖 &nbsp; I’m not looking to collaborate right now<br/>
 
 ### 👩‍💻 Tech Stack
