@@ -9,7 +9,7 @@ My name is June (she/her) and I'm an aspiring front-end developer
 💖 &nbsp; I’m not looking to collaborate right now
 
 ### 👩‍💻 Tech Stack
-Right now, I'm learning and primarily using Rust, but I have past experience with:
+Right now, I'm learning Gleam and primarily using Rust, but I have past experience with:
 * HTML5
 * CSS3
 * JavaScript & TypeScript
