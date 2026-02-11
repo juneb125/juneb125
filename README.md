@@ -7,8 +7,9 @@ No part of my workflow includes *any* generative AI or large language models.
 
 <a href="https://brainmade.org">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://brainmade.org/black-logo.svg" width="96" alt="Brainmade Logo" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://brainmade.org/white-logo.svg" width="96" alt="Brainmade Logo" />
+    <!-- Black & white Brainmade logos are from 'https://brainmade.org/black-logo.svg' and 'https://brainmade.org/white-logo.svg', respectively -->
+    <source media="(prefers-color-scheme: light)" srcset="./brainmade-black-logo.svg" width="96" alt="Brainmade Logo" />
+    <source media="(prefers-color-scheme: dark)" srcset="./brainmade-white-logo.svg" width="96" alt="Brainmade Logo" />
     <img src="" alt="Brainmade Logo" />
   </picture>
 </a>
