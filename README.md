@@ -2,6 +2,18 @@ June (she/her)
 
 doing small things with Rust, C, and Nix :)
 
+---
+
+Reach Out
+* email:
+  ```sh
+  echo "anJiZXJnZXJvbjgyM0BnbWFpbC5jb20=" | base64 -d
+  ```
+* Codeberg: [@juneb256](https://codeberg.org/juneb256)
+* GitHub: [@juneb125](https://github.com/juneb125)
+
+---
+
 All contributions I have made were, and will continue to be, from my human intelligence.\
 No part of my workflow includes *any* generative AI or large language models.
 
